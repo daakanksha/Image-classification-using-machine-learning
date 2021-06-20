@@ -1,2 +1,2 @@
 # Minor-project
-image classification using machine learning
+Classifying 4 sets of images using machine learning techinques
